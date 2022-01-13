@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 7,
+      "text": "Bu shunchaki test uchun va birichi izoh"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "Bu shunchaki test uchun va birichi izoh"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "Bu shunchaki test uchun va birichi izoh"
+    },
+    {
+      "id": 4,
+      "rating": 10,
+      "text": "Bu shunchaki test uchun va birichi izoh"
+    }
+  ]
+}
